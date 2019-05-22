@@ -1,8 +1,6 @@
 # cifar10-resnet
 Training resnet20 for cifar10, CSE4100-Project4
 
-get codes from
-https://keras.io/examples/cifar10_resnet/
 
 ### references
 get codes from
