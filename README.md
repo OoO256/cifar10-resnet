@@ -3,7 +3,7 @@ Training resnet20 for cifar10, CSE4100-Project4
 
 
 ### references
-get codes from
+gcode from
 https://keras.io/examples/cifar10_resnet/
 
 ResNet v1 paper 
